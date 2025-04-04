@@ -1,0 +1,13 @@
+Libaries:
+pandas==2.1.1
+numpy==1.26.0
+matplotlib==3.8.0
+seaborn==0.12.2
+wordcloud==1.9.2
+
+Additional Resources:
+The notebook uses a CSV file named Economy_Indicators.csv for economic analysis and data visualization. If you're submitting an archive, the following files should be included:
+
+The Jupyter notebook (.ipynb file).
+requirements.txt (as provided above).
+The cleaned CSV file: Cleaned_Economy_Indicators.csv generated during data preprocessing.
